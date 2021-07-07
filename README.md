@@ -15,7 +15,7 @@
 
 ## Description
  
- Google Books React is a MERN application that is a searchable Google Books API. Google Books React gives you the option to search tens of thousands of books and allows you to save books from your search to a database then retrieve the saved books for a later date.
+ Google Books React is a MERN application that allows the user to search for books using the Google Books API. Google Books React gives you the option to search tens of thousands of books and allows you to save books from your search to a database then retrieve the saved books for a later date.
 
 ## Author
 
